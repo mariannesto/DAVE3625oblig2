@@ -1,4 +1,4 @@
-# DAVE3625oblig2
+# DAVE3625 - Oblig. 2 - Group 16
 
 Use case: Tesla
 
